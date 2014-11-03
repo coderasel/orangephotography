@@ -14,8 +14,7 @@
 .navbar-brand h2{text-transform:none;font-size:20px;}   
 .navbar-brand span{font-family:AlluraRegular;color:orange;font-weight:bold;font-size:30px;margin-top:0px;}   
 .about_us span{font-family:AlluraRegular;color:orange;font-weight:bold;font-size:25px;}
-.content-section img {0px;
-}
+.content-section img {0px;}
 .projects_area{margin-top:100px;}
 .projects_area{width:100%;}
 .project_text{width:100%;text-align:center;}
